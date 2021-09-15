@@ -1,0 +1,30 @@
+footer{
+    background-color: black;
+	height:100%;
+	margin-bottom: 0px;
+    overflow: hidden;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1))
+}
+.social-icons a{
+    list-style: none;
+  display: list-item;
+   font-size: medium;
+}
+.align-items-center{
+	height:100%;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.icons{
+color: white;
+font-size: large;
+}
+
+.icons:hover{
+    color: rgb(174, 85, 171);
+}
